@@ -38,8 +38,6 @@ Yes! You can join project discord [here](https://discord.gg/CYvyq3u)
 
 ## Roadmap
 
-- create project (setup [modules](https://github.com/FunnyGuilds/FunnySectors/issues/9))
-
 - create abstraction layer for message broker, database
 
 - create spigot "one source of truth" (Database as a way of storing players equipment)
