@@ -19,7 +19,6 @@ Well... We need a working demo. That is the most important thing for now. As [bo
 
 * Project language: [Java](https://www.java.com/en/)
 * Test language: [Kotlin](https://kotlinlang.org/)
-* Database: [MySql](https://www.mysql.com/)
 * Message broker: [Redis](https://redis.io/)
 * Minecraft platform: [Spigot](https://www.spigotmc.org/)
 * Proxy: [Velocity](https://velocitypowered.com/)
