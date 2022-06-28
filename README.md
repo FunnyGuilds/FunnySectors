@@ -49,10 +49,6 @@ Yes! You can join project discord [here](https://discord.gg/CYvyq3u)
 
 - send player equipment using message broker and recive it on the other end
 
-- add some way to sync map between sectors
-
-- optymalize everythin
-
 - release first demo version
 
 ## Logo
