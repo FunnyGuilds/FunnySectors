@@ -1,7 +1,7 @@
 
 # Funny Sectors
 
-A lightweight plugin for managing large minecraft networks
+A plugin for managing large minecraft servers
 
 
 ## Important note
