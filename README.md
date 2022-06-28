@@ -25,9 +25,9 @@ Well... We need a working demo. That is the most important thing for now. As [bo
 
 All the technologies have been discussed [here](https://github.com/FunnyGuilds/FunnySectors/issues)
 
-### Are you planing on adding support for XYZ?
+### Are you planning on adding support for XYZ?
 
-We are planing to have a good abstraction layer so adding anything is not that hard. If you really care you can create issue or pull request. All contributions are welcome!
+We are planning to have a good abstraction layer so adding anything is not that hard. If you care you can create an issue. All contributions are welcome!
 
 ### Is there any way to contact you?
 
@@ -50,7 +50,4 @@ Yes! You can join project discord [here](https://discord.gg/CYvyq3u)
 
 ## Logo
 
-Well... We do not have one. You are more then welcome to create one :)
-## License
-
-[AGPL 3.0](https://choosealicense.com/licenses/agpl-3.0/#)
+Well... We do not have one. You are more than welcome to create one :)
