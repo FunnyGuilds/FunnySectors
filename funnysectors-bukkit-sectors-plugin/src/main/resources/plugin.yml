@@ -1,0 +1,5 @@
+name: 'bukkit-sectors-plugin'
+main: 'pl.rosehc.sectors.SectorsPlugin'
+authors: [ 'stevimeister', 'inzynierr' ]
+depend: [ 'bukkit-adapter-plugin' ]
+version: '${project.version}'

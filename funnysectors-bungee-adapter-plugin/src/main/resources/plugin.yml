@@ -1,0 +1,4 @@
+name: 'bungee-adapter-plugin'
+main: 'pl.rosehc.adapter.AdapterPlugin'
+author: 'stevimeister'
+version: '${project.version}'

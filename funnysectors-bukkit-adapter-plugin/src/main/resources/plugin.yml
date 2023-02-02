@@ -1,0 +1,4 @@
+name: 'bukkit-adapter-plugin'
+main: 'pl.rosehc.adapter.AdapterPlugin'
+authors: [ 'stevimeister' ]
+version: '${project.version}'

@@ -1,0 +1,5 @@
+name: 'bukkit-platform-plugin'
+main: 'pl.rosehc.platform.PlatformPlugin'
+authors: [ 'stevimeister', 'inzynierr' ]
+depend: [ 'bukkit-adapter-plugin', 'bukkit-sectors-plugin', 'bukkit-bossbar-plugin', 'bukkit-waypoint-plugin', 'bukkit-actionbar-plugin' ]
+version: '${project.version}'

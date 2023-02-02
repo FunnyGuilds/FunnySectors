@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/rosehc-bukkit-achievements-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/rosehc-bukkit-actionbar-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/rosehc-bukkit-bossbar-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/rosehc-bukkit-guilds-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/rosehc-bukkit-protection-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/rosehc-bukkit-randomtp-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/rosehc-bukkit-trade-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/rosehc-bukkit-waypoint-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/rosehc-bungee-auth-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/rosehc-bungee-bossbar-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/rosehc-bungee-platform-plugin/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

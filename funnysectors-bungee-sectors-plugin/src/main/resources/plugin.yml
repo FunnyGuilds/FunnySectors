@@ -1,0 +1,5 @@
+name: 'bungee-sectors-plugin'
+main: 'pl.rosehc.sectors.SectorsPlugin'
+author: 'stevimeister & inzynierr'
+depends: [ 'bungee-adapter-plugin' ]
+version: '${project.version}'
